@@ -28,7 +28,7 @@ class Interview extends Component {
             <div className="pv4-ns">
               <blockquote className="ml0 mt0 pl4-ns pl3 bl bw2 b--near-white">
                 <p className="f6 f5-ns lh-copy measure mt0">
-                  Laboratory One is a collective of entrepreneurs dedicated to technological excellence.
+                  Laboratory One is culture of entrepreneurs, developers, makers, and designers.
                 </p>
               </blockquote>
             </div>
@@ -40,31 +40,19 @@ class Interview extends Component {
             <div className="pv4-ns">
               <blockquote className="ml0 mt0 pl4-ns pl3 bl bw2 b--near-white">
                 <p className="f6 f5-ns lh-copy measure mt0">
-                  Laboratory One is proud to be based in Edmonton, Alberta.
+                  Laboratory One is proud to be based in Canada.
                 </p>
               </blockquote>
             </div>
           </div>
           <div className="pv3">
             <h3 className="f3-ns f5 Primary">
-              Why is Laboratory One?
+              What is Laboratory One?
             </h3>
             <div className="pv4-ns">
               <blockquote className="ml0 mt0 pl4-ns pl3 bl bw2 b--near-white">
                 <p className="f6 f5-ns lh-copy measure mt0">
-                  Technology moves fast. No one can keep track of it all. We try to stay cutting edge to serve your needs.
-                </p>
-              </blockquote>
-            </div>
-          </div>
-          <div className="pv3">
-            <h3 className="f3-ns f5 Primary">
-              How is Laboratory One?
-            </h3>
-            <div className="pv4-ns">
-              <blockquote className="ml0 mt0 pl4-ns pl3 bl bw2 b--near-white">
-                <p className="f6 f5-ns lh-copy measure mt0">
-                  Laboratory One exists as ad-hoc teams unified as contractors to solve client needs. We recruit and train for excellence. We aren't perfect but we strive to be.
+                  Laboratory One exists as ad-hoc teams unified upon commission.
                 </p>
               </blockquote>
             </div>
